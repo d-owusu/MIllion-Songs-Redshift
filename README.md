@@ -25,4 +25,9 @@ I create a manifest of the files to upload. The file should also be uploaded int
 I use the aws free trial cluster  with 160gb free storage and a 750 hours uptime per month. The free trial allows for just a single node and a dc2.large node .
 ![](https://github.com/d-owusu/Million-Songs-Redshift/blob/main/pictures/ksnip_20221012-121724.png)
 
+### Upload to Redshift
+Upload the compressed files into redshift by first a creating a schema 
+![](https://github.com/d-owusu/Million-Songs-Redshift/blob/main/pictures/ksnip_20221012-132707.png)
 
+Then load the data into redshift.  Note that you have to create a role to allow redshift access to s3 bucket then use the arn from the role created as the credentials in Redshift as seen below
+![](https://github.com/d-owusu/Million-Songs-Redshift/blob/main/pictures/ksnip_20221012-132640.png)
