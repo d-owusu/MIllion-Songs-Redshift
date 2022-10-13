@@ -33,6 +33,6 @@ Then load the data into redshift.  Note that you have to create a role to allow 
 ![](https://github.com/d-owusu/Million-Songs-Redshift/blob/main/pictures/ksnip_20221012-132640.png)
 
 ### Connect to a BI tool
-I connect redshift to tableau to access the data. You have to check the security group associated with Redshift  and permit inbound access on port 5439.
+I connect tableau to Redshift  to access the data. You have to check the security group associated with Redshift  and permit inbound access on port 5439.
 
 ![](https://github.com/d-owusu/Million-Songs-Redshift/blob/main/pictures/ksnip_20221012-174347.png)
