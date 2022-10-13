@@ -17,6 +17,6 @@ Load files into your created s3 bucket
 ![](https://github.com/d-owusu/Million-Songs-Redshift/blob/main/pictures/ksnip_20221012-104051.png)
 
 ### Manifest
-I create a manifest of the files to upload
+I create a manifest of the files to upload. The file should also be uploaded into the same s3 bucket
 
 ![](https://github.com/d-owusu/Million-Songs-Redshift/blob/main/pictures/ksnip_20221013-121659.png)
