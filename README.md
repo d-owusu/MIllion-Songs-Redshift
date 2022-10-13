@@ -31,3 +31,8 @@ Upload the compressed files into redshift by first a creating a schema
 
 Then load the data into redshift.  Note that you have to create a role to allow redshift access to s3 bucket then use the arn from the role created as the credentials in Redshift as seen below
 ![](https://github.com/d-owusu/Million-Songs-Redshift/blob/main/pictures/ksnip_20221012-132640.png)
+
+### Connect to a BI tool
+I connect redshift to tableau to access the data. You have to check the security group associated with Redshift  and permit inbound access on port 5439.
+
+![](https://github.com/d-owusu/Million-Songs-Redshift/blob/main/pictures/ksnip_20221012-174347.png)
