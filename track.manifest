@@ -1,0 +1,25 @@
+
+{
+    "entries": [
+        {"url": "s3://track-metadata/track_metadata_aa.csv.gz", "mandatory": true},
+        {"url": "s3://track-metadata/track_metadata_ab.csv.gz", "mandatory": true},
+        {"url": "s3://track-metadata/track_metadata_ac.csv.gz", "mandatory": true},
+        {"url": "s3://track-metadata/track_metadata_ad.csv.gz", "mandatory": true},
+        {"url": "s3://track-metadata/track_metadata_ae.csv.gz", "mandatory": true},
+        {"url": "s3://track-metadata/track_metadata_af.csv.gz", "mandatory": true},
+        {"url": "s3://track-metadata/track_metadata_ag.csv.gz", "mandatory": true},
+        {"url": "s3://track-metadata/track_metadata_ah.csv.gz", "mandatory": true},
+        {"url": "s3://track-metadata/track_metadata_ai.csv.gz", "mandatory": true},
+        {"url": "s3://track-metadata/track_metadata_aj.csv.gz", "mandatory": true},
+        {"url": "s3://track-metadata/track_metadata_ak.csv.gz", "mandatory": true},
+        {"url": "s3://track-metadata/track_metadata_al.csv.gz", "mandatory": true},
+        {"url": "s3://track-metadata/track_metadata_am.csv.gz", "mandatory": true},
+        {"url": "s3://track-metadata/track_metadata_an.csv.gz", "mandatory": true},
+        {"url": "s3://track-metadata/track_metadata_ao.csv.gz", "mandatory": true},
+        {"url": "s3://track-metadata/track_metadata_ap.csv.gz", "mandatory": true},
+        {"url": "s3://track-metadata/track_metadata_aq.csv.gz", "mandatory": true},
+        {"url": "s3://track-metadata/track_metadata_ar.csv.gz", "mandatory": true},
+        {"url": "s3://track-metadata/track_metadata_as.csv.gz", "mandatory": true},
+        {"url": "s3://track-metadata/track_metadata_at.csv.gz", "mandatory": true}
+    ]
+}
