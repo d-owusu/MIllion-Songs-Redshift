@@ -14,4 +14,4 @@ Create your s3 bucket and uyour redshift use the same region where redshift clus
 
 ### Upload files
 Load files into your created s3 bucket
-![](https://github.com/d-owusu/Million-Songs-Redshift/blob/main/pictures/ksnip_20221013-102407.png)
+![](https://github.com/d-owusu/Million-Songs-Redshift/blob/main/pictures/ksnip_20221012-104051.png)
