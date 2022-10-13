@@ -20,3 +20,7 @@ Load files into your created s3 bucket
 I create a manifest of the files to upload. The file should also be uploaded into the same s3 bucket
 
 ![](https://github.com/d-owusu/Million-Songs-Redshift/blob/main/pictures/ksnip_20221013-121659.png)
+
+### Launch a Redshift Cluster
+I use the aws free trial cluster  with 160gb free storage and a 750 hours uptime per month. The free trial allows for just a single node and a dc2.large node .
+![](https://github.com/d-owusu/Million-Songs-Redshift/blob/main/pictures/ksnip_20221012-121724.png)
